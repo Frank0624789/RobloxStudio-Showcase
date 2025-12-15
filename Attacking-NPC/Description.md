@@ -13,4 +13,5 @@ The black flash also grants the NPC boosted max health to 120.
   The blackflash system was made with a simple random number roll
   
   The punch system and player detection was done with distance/Position analysis & calculation
+  
     The NPC follows the player closest to it
