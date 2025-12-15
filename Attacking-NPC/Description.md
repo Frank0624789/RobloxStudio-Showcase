@@ -6,5 +6,6 @@ Additionally, there is a one in three (1/3 for the demo purposes) chance on each
 The black flash also grants the NPC boosted max health to 120.
 
 ## What was used
--The choppy knockback system was done with BodyVelocity manipulation
--
+  The choppy knockback system was done with BodyVelocity manipulation
+  The blackflash system was made with a simple random number roll
+  The punch system and player detection was done with distance/Position analysis & calculation
