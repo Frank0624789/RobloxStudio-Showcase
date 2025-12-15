@@ -14,4 +14,4 @@ The black flash also grants the NPC boosted max health to 120.
   
   The punch system and player detection was done with distance/Position analysis & calculation
   
-    The NPC follows the player closest to it
+  --The NPC follows the player closest to it
