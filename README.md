@@ -5,7 +5,7 @@ Hi, I’m Frank — a high school student learning Roblox game development with 
 
 This repository contains small Roblox Studio prototypes I’ve built to explore game mechanics and problem-solving code.
 
-The Folders are numbered oldest to newest (1-n)
+The Folders are numbered oldest to newest (1->n)
 
 Each folder includes:
 - A short video demo
