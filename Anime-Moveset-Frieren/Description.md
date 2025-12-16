@@ -10,7 +10,7 @@ The mechanic shown is the dash. A simple application of BodyVelocity.
 
 The first ability shown is "Zoltraak". This blast has a small hitbox (intended for one target) and a maximum range it can hit. Any point within this range, "Zoltraak" will travel to with a varying size and position depending on the target position. There are also particles put in place for different stages of the attack. This was intended to be the M1 of the PvP system.
 
-The second ability shown is "Purple Lightning". This attack hits in an outward triangle of sorts. A randomly generated pattern of purple parts forms "lightning" and deals damage to the enemy. The random generation applies to the length of each part, the orientation, and the parts it connects to.
+The second ability shown is "Purple Lightning" activated by clicking the number 2 key. This attack hits in an outward triangle of sorts. A randomly generated pattern of purple parts forms "lightning" and deals damage to the enemy. The random generation applies to the length of each part, the orientation, and the parts it connects to.
 ## My Notes
 The most complex prototype i've scripted.
 
