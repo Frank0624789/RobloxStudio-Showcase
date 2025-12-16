@@ -1,4 +1,4 @@
-# Anime-Moveset-Gojo
+# Anime Moveset Gojo
 
 ## Overview
 A simple set of abilities inspired by the anime character Gojo from Jujutsu Kaisen.
