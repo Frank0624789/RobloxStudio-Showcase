@@ -1,5 +1,10 @@
 # Attacking NPC
 
+https://youtu.be/RuKOVKpOAeU
+
+
+
+
 ## Overview
 A small prototype of an NPC that can chase the player if the player enters within a 25 stud radius of the NPC. When the NPC is close enough, it proceeds to punch the player until the player is eliminated. 
 
