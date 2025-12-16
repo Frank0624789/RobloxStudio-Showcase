@@ -1,5 +1,9 @@
 # Anime Moveset Gojo
 
+https://youtu.be/qCGDNtIjbM0
+
+
+
 ## Overview
 A simple set of abilities inspired by the anime character Gojo from Jujutsu Kaisen.
 
