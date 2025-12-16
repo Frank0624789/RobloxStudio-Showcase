@@ -10,5 +10,5 @@ This repository contains small Roblox Studio prototypes I’ve built to explore 
 The Folders are numbered oldest to newest (1->n)
 
 Each folder includes:
-- A short video demo
+- A short video demo (if the mp4 fails there is a link in "Description")
 - A brief explanation of what the prototype demonstrates titled "Description"
