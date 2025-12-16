@@ -16,7 +16,7 @@ The most complex prototype i've scripted.
 
 This was a project I attempted to take on all by myself. Although that burden pushed my efforts down, I walked away from the experience with broadened knowledge on particles, creating/working with them, and scripting them.
 
-Additionally, this was my first time applying similar programming patterns to our team 302 FIRST robotics team's code. This includes distance calculations for the varying length beams for "Zoltraak" as well as Trigonometric angle calculations and yaw rotation manipulation for the purple lightning.
+Additionally, this was my first time applying similar programming patterns to our team 302 FIRST robotics team's code. This includes distance calculations for the varying length beams for "Zoltraak" as well as Trigonometric angle calculations and yaw rotation manipulation for the purple lightning. Next step for this ability would be to add the stun effect intended.
 
 The purple lightning is NOT a model, I didn't want to find a toolbox model for it or use particles so I scripted with many random generated parts.
 
