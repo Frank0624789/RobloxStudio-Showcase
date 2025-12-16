@@ -1,5 +1,10 @@
 # RNG Minigame
 
+https://youtu.be/_CbD_cvLDhE
+
+
+
+
 ## Overview
 A mini random title rolling game. There are different titles that can be rolled with a press of the roll button: common, rare (1/4), cool (1/16), legend (1/64), legend AWAKENED (1/4 if legend was rolled), god (1/1000).
 
