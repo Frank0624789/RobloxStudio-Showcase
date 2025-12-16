@@ -19,8 +19,11 @@ The "Lapse Blue" was made in 2023. I was still hesitant to use TweenService so t
 ## What was used
 
 "Lapse Blue" was made using Lerp.
+
 "Red" was my first use of TweenService
+
 "Hollow Purple MAXIMUM" used a lot of hit detection
+
 "Hollow Purple (blast)" used BodyVelocity.
 
 
