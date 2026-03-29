@@ -1,6 +1,6 @@
 # RNG Minigame
 
-https://youtu.be/_CbD_cvLDhE
+[https://youtu.be/_CbD_cvLDhE](https://youtu.be/_CbD_cvLDhE)
 
 
 
