@@ -1,8 +1,11 @@
 # The Forge Knockoff
 
 https://youtu.be/B567ELEtQX0
+
 For the purposes of the video demonstration, I gave my player infinite money and the first rock mined had only 20 health as opposed to the standard of 100 health.
+
 Game link:
+
 https://www.roblox.com/games/109627297745876/MINEN
 
 ## Overview
